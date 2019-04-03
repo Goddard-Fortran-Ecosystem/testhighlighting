@@ -1,4 +1,4 @@
-! # -*- mode: F90 -*-
+# -*- mode: F90 -*-
 
 module Test_RegridderFactoryRegistryMod
    use pFUnit_mod
