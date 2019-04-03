@@ -122,3 +122,5 @@ contains
 
    
 end module Test_RegridderFactoryRegistryMod
+
+!vim: syntax=fortran
