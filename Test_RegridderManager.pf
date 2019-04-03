@@ -10,7 +10,6 @@ module Test_RegridderFactoryRegistryMod
    use MockRegridderFactoryMod
    implicit none
 
-
 contains
 
    @test
