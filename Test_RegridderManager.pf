@@ -1,5 +1,3 @@
-# -*- mode: F90 -*-
-
 module Test_RegridderFactoryRegistryMod
    use pFUnit_mod
    use ESMF
